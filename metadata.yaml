@@ -1,0 +1,37 @@
+_repo: William-Lilly-s-History-of-His-Life-and-TimesFrom-the-Year-1602-to-1681_15835
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lilly, William
+    birthdate: 1602
+    deathdate: 1681
+    gutenberg_agent_id: '6333'
+    url: http://www.gutenberg.org/2009/agents/6333
+    wikipedia: http://en.wikipedia.org/wiki/William_Lilly
+  editor:
+    agent_name: Ashmole, Elias
+    alias: Hasolle, James
+    birthdate: 1617
+    deathdate: 1692
+    gutenberg_agent_id: '6334'
+    url: http://www.gutenberg.org/2009/agents/6334
+    wikipedia: http://en.wikipedia.org/wiki/Elias_Ashmole
+description: ''
+gutenberg_issued: '2005-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15835'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astrologers -- Great Britain -- Biography'
+- !lcsh 'Lilly, William, 1602-1681'
+- !lcsh 'Astrology'
+- !lcc 'BF'
+title: William Lilly's History of His Life and Times, from the Year 1602 to 1681
+url: http://www.gutenberg.org/ebooks/15835
