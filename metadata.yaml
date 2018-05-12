@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6334
     wikipedia: http://en.wikipedia.org/wiki/Elias_Ashmole
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15835#William-Lilly-s-History-of-His-Life-and-TimesFrom-the-Year-1602-to-1681
 gutenberg_issued: '2005-05-16'
 gutenberg_type: Text
 identifiers:
